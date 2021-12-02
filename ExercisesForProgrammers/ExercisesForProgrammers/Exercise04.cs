@@ -10,19 +10,19 @@ namespace ExercisesForProgrammers
     {
         public void ProgramSolution4()
         {
-            Console.Write("\n Enter A Noun : ");
+            Console.Write("\n Enter A Pet's : ");
             string noun = Console.ReadLine();
             Console.Write("\n");
 
-            Console.Write("\n Enter A Verb : ");
+            Console.Write("\n Enter A Action : ");
             string verb = Console.ReadLine();
             Console.Write("\n");
 
-            Console.Write("\n Enter An Adjective : ");
+            Console.Write("\n Enter An Color : ");
             string adj = Console.ReadLine();
             Console.Write("\n");
 
-            Console.Write("\n Anter An Adverb : ");
+            Console.Write("\n Enter An Timing : ");
             string adv = Console.ReadLine();
             Console.Write("\n");
 

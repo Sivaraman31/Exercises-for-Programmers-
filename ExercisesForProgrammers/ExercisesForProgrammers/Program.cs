@@ -9,7 +9,7 @@ namespace ExercisesForProgrammers
     class Program
     {
         static void Main(string[] args)
-        {
+        {/*
             Console.WriteLine("\n -----------------------Saying Hello------------------------- \n");
             new Exercise01().ProgramSolution1();
 
@@ -30,6 +30,9 @@ namespace ExercisesForProgrammers
 
             Console.WriteLine("\n -----------------Area of a Rectangular Room----------------- \n");
             new Exercise07().ProgramSolution7();
+            */
+            Console.WriteLine("\n -------------------------Pizza Party------------------------ \n");
+            new Exercise08().ProgramSolution8();
         }
     }
 }
