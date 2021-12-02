@@ -14,7 +14,7 @@ Chapter | Title | Done
 05 | Exercise - 05 | :heavy_check_mark:
 06 | Exercise - 06 | :heavy_check_mark:
 07 | Exercise - 07 | :heavy_check_mark:
-08 | Exercise - 08 | 
+08 | Exercise - 08 | :heavy_check_mark:
 09 | Exercise - 09 | 
 10 | Exercise - 10 | 
 11 | Exercise - 11 | 
