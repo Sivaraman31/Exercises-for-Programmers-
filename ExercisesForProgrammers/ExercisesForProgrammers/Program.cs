@@ -42,9 +42,12 @@ namespace ExercisesForProgrammers
 
             Console.WriteLine("\n ---------------------Currency Conversion-------------------- \n");
             new Exercise11().ProgramSolution11();
-            */
+
             Console.WriteLine("\n ---------------------Currency Conversion-------------------- \n");
             new Exercise12().ProgramSolution12();
+            */
+            Console.WriteLine("\n ---------------------Currency Conversion-------------------- \n");
+            new Exercise13().ProgramSolution13();
         }
     }
 }
