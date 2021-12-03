@@ -30,9 +30,21 @@ namespace ExercisesForProgrammers
 
             Console.WriteLine("\n -----------------Area of a Rectangular Room----------------- \n");
             new Exercise07().ProgramSolution7();
-            */
+            
             Console.WriteLine("\n -------------------------Pizza Party------------------------ \n");
             new Exercise08().ProgramSolution8();
+            
+            Console.WriteLine("\n ----------------------Paint Calculator---------------------- \n");
+            new Exercise09().ProgramSolution9();
+            
+            Console.WriteLine("\n ------------------------Self-Checkout----------------------- \n");
+            new Exercise10().ProgramSolution10();
+
+            Console.WriteLine("\n ---------------------Currency Conversion-------------------- \n");
+            new Exercise11().ProgramSolution11();
+            */
+            Console.WriteLine("\n ---------------------Currency Conversion-------------------- \n");
+            new Exercise12().ProgramSolution12();
         }
     }
 }
