@@ -43,11 +43,26 @@ namespace ExercisesForProgrammers
             Console.WriteLine("\n ---------------------Currency Conversion-------------------- \n");
             new Exercise11().ProgramSolution11();
 
-            Console.WriteLine("\n ---------------------Currency Conversion-------------------- \n");
+            Console.WriteLine("\n ------------------Computing Simple Interest----------------- \n");
             new Exercise12().ProgramSolution12();
-            */
-            Console.WriteLine("\n ---------------------Currency Conversion-------------------- \n");
+            
+            Console.WriteLine("\n ----------------Determining Compound Interest--------------- \n");
             new Exercise13().ProgramSolution13();
+            
+            Console.WriteLine("\n -----------------------Tax Calculator----------------------- \n");
+            new Exercise14().ProgramSolution14();
+            
+            Console.WriteLine("\n --------------------Password Validation-------------------- \n");
+            new Exercise15().ProgramSolution15();
+
+            Console.WriteLine("\n ---------------------Legal Driving Age-------------------- \n");
+            new Exercise16().ProgramSolution16();
+            
+            Console.WriteLine("\n -----------------Blood Alcohol Calculator----------------- \n");
+            new Exercise17().ProgramSolution17();
+            */
+            Console.WriteLine("\n ------------------Temperature Converter------------------- \n");
+            new Exercise18().ProgramSolution18();
         }
     }
 }

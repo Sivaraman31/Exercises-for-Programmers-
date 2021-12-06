@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercise15.cs" />
+    <Compile Include="Exercise14.cs" />
     <Compile Include="Exercise01.cs" />
     <Compile Include="Exercise02.cs" />
     <Compile Include="Exercise03.cs" />
@@ -56,6 +58,9 @@
     <Compile Include="Exercise11.cs" />
     <Compile Include="Exercise12.cs" />
     <Compile Include="Exercise13.cs" />
+    <Compile Include="Exercise16.cs" />
+    <Compile Include="Exercise17.cs" />
+    <Compile Include="Exercise18.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
