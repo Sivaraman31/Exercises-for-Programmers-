@@ -25,11 +25,11 @@ Chapter | Title | Done
 16 | Exercise - 16 | :heavy_check_mark:
 17 | Exercise - 17 | :heavy_check_mark:
 18 | Exercise - 18 | :heavy_check_mark:
-19 | Exercise - 19 | 
-20 | Exercise - 20 | 
-21 | Exercise - 21 | 
-22 | Exercise - 22 | 
-23 | Exercise - 23 | 
+19 | Exercise - 19 | :heavy_check_mark:
+20 | Exercise - 20 | :heavy_check_mark:
+21 | Exercise - 21 | :heavy_check_mark:
+22 | Exercise - 22 | :heavy_check_mark:
+23 | Exercise - 23 | :heavy_check_mark:
 24 | Exercise - 24 | 
 25 | Exercise - 25 | 
 26 | Exercise - 26 | 
