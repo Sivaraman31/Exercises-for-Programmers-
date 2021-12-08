@@ -70,8 +70,8 @@ namespace ExercisesForProgrammers
             //new Exercise20().ProgramSolution20();
             //new Exercise21().ProgramSolution21();
             //new Exercise22().ProgramSolution22();
-            new Exercise23().ProgramSolution23();
-            //new Exercise24().ProgramSolution24();
+            //new Exercise23().ProgramSolution23();
+            new Exercise24().ProgramSolution24();
             //new Exercise25().ProgramSolution25();
             //new Exercise26().ProgramSolution26();
             //new Exercise27().ProgramSolution27();
