@@ -61,6 +61,11 @@
     <Compile Include="Exercise16.cs" />
     <Compile Include="Exercise17.cs" />
     <Compile Include="Exercise18.cs" />
+    <Compile Include="Exercise19.cs" />
+    <Compile Include="Exercise20.cs" />
+    <Compile Include="Exercise21.cs" />
+    <Compile Include="Exercise22.cs" />
+    <Compile Include="Exercise23.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -60,9 +60,24 @@ namespace ExercisesForProgrammers
             
             Console.WriteLine("\n -----------------Blood Alcohol Calculator----------------- \n");
             new Exercise17().ProgramSolution17();
-            */
+            
             Console.WriteLine("\n ------------------Temperature Converter------------------- \n");
             new Exercise18().ProgramSolution18();
+            
+            Console.WriteLine("\n ------------------Temperature Converter------------------- \n");
+            new Exercise19().ProgramSolution19();
+            */
+            //new Exercise20().ProgramSolution20();
+            //new Exercise21().ProgramSolution21();
+            //new Exercise22().ProgramSolution22();
+            new Exercise23().ProgramSolution23();
+            //new Exercise24().ProgramSolution24();
+            //new Exercise25().ProgramSolution25();
+            //new Exercise26().ProgramSolution26();
+            //new Exercise27().ProgramSolution27();
+            //new Exercise28().ProgramSolution28();
+            //new Exercise29().ProgramSolution29();
+            //new Exercise30().ProgramSolution30();
         }
     }
 }
